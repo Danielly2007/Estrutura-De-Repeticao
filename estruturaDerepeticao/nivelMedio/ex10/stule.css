@@ -1,0 +1,7 @@
+#output {
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: bold;
+    white-space: pre; 
+    font-family: monospace;
+}

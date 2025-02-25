@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+}
+#output {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    line-height: 1.5;
+}
+.linha {
+    display: block;
+    font-size: 20px;
+    padding: 5px;
+}
